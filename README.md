@@ -11,9 +11,9 @@ The only files needed to run the game are `play.typ` and `typesweeper.typ`. You 
 ## play
 
 1. open `play.typ` in a Typst editor with live preview (such as the [Typst Web App](https://typst.app/), or VSCode with the Tinymist extension)
-2. put your caret between the quotes in `#typesweeper("")`
+2. pgitut your caret between the quotes in `#typesweeper("")`
 
-`w` `a` `s` `d` to `x` to reveal, `f` to flag
+`w` `a` `s` `d` to move, `x` to reveal, `f` to flag
 
 ### advanced
 
